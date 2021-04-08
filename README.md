@@ -1,12 +1,7 @@
 
-### Features of Stage 2:
-##### On Space button pressed, player gets a second chance to play
-##### Blocks vanish on coming in contact with my slingshot
-
-OUTPUT LINK
-https://suwarna-cloud.github.io/Tower-Siege-III/index.html
 
 
 
 
 
+https://utkarsh-bestcoder777.github.io/tower-seige-2/index.html
